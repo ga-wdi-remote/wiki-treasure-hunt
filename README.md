@@ -26,8 +26,9 @@ questions given below.
 
 ## Questions
 
-Please do not use any resource other than the class wiki to answer these
-questions.
+Please do not use any resource other than the class wiki
+(or the materials it references)
+to answer these questions.
 
 1.  What are the three requirements for completing this course?
 2.  At what URL can you find a series of videos covering the terminal, created
@@ -36,14 +37,15 @@ questions.
 4.  According to our Git style guide, when writing the detailed description of
     a commit in its commit message, what three types of things are most
     important to mention?
-5.  What does a bug report in the bug journal need to have before it can be
-    submitted?
+5.  What does a bug report need to have before it can be submitted to the bug
+    journal?
 6.  There are three Git tutorials referenced in the Wiki. What are they?
-7.  List at least two basic style guidelines that will help your projects look
-    clean.
+7.  List at least two basic UI styling tips that will help your projects
+    look good.
 8.  What is the maximum number of absences a student can have, and how many
     'tardies' are equal to an absence?
-9.  Where might you find a list of publicly accessible APIs?
+9.  Where can you find a directory of publicly-accessible APIs?
+    Give at least one URL.
 10. What two holidays will we have during this course (not counting the long
     winter break)?
 
